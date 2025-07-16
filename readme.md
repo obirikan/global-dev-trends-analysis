@@ -28,7 +28,7 @@ The dataset is based on [Stack Overflow Developer Survey](https://insights.stack
 
 ## How to Run
 
-1. Download the dataset from [here](https://static-assets.codecademy.com/Courses/handling-missing-data/stackoverflow-project/developer_dataset.csv.zip)
+1. Download the dataset
 2. Run the Jupyter notebook or Python scripts in this repository
 
 ## Acknowledgements
