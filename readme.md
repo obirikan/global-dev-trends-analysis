@@ -16,6 +16,9 @@ This project explores global developer trends using Stack Overflow survey data (
 - Data visualization with Seaborn and Matplotlib
 - Pandas for data manipulation
 
+## Conclusion
+This analysis of Stack Overflow survey data reveals key trends in the global developer community. Most developers are employed full-time and specialize in front-end, back-end, or full-stack roles. Computer Science remains the most common educational background, but other majors are also entering the field. There is a clear relationship between years of experience and compensation, with more experienced developers earning higher salaries on average. By carefully handling missing data, the analysis provides reliable insights that can help guide hiring and workforce planning decisions.
+
 ## Dataset
 
 The dataset is based on [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey) responses from 2018–2020.
